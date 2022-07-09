@@ -1,0 +1,3 @@
+Youtube - https://www.youtube.com/watch?v=cIMQ0T4reJ8&list=PLFhJomvoCKC-HHwfZzIy2Mv59Uen88rqB&index=27
+Git 	- https://github.com/vykes-mac/food-ordering-app
+	- https://github.com/vykes-mac/food_ordering_backend
